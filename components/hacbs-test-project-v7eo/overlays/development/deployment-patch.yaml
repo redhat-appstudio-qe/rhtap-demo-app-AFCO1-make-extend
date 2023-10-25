@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-appstudio-qe/rhtap-demo-zibl-tenant/rhtap-demo-app/hacbs-test-project-v7eo@sha256:dfa6e0d1659ec9f004033487a40e85b70f3254f18f6f556f44072a75c1319ac6
+      - image: quay.io/redhat-appstudio-qe/rhtap-demo-zibl-tenant/rhtap-demo-app/hacbs-test-project-v7eo@sha256:69345775e69da82aa616aa3ec78e9319d00816958ed9832755964b3a10ee163b
         name: hacbs-jvm-build-test-project
         resources: {}
 status: {}
